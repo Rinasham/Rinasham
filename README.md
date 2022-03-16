@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 ![Metrics](/github-metrics.svg)
-<!-- ![Most Used Lang](/metrics.plugin.languages.svg) -->
+<br/>
+![Most Used Lang](/metrics.plugin.habits.facts.svg)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinasham&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=omni" />
