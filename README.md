@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Rinasham&theme=chalk)
 
-
+### Recent post on Zenn
 <!-- profile updater begin: zenn -->
 - Mar 15 [cd,ls,catコマンド(Linux)](https://zenn.dev/rinasham/articles/1e0bcf714a26bd)
 - Mar 15 [IPアドレス・MACアドレスとifconfigコマンド](https://zenn.dev/rinasham/articles/690a813802a604)
