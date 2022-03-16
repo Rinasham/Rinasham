@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Metrics](/github-metrics.svg)
+![Most Used Lang](/metrics.plugin.languages.svg)
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinasham&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=omni" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Rinasham&count_private=true&show_icons=true&show_icons=true&theme=omni" />
@@ -23,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Rinasham&theme=chalk)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Rinasham&theme=chalk)
 
 
 <!-- link icons -->
