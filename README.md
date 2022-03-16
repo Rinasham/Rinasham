@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 
 
 <!-- profile updater begin: zenn -->
+- Mar 15 [cd,ls,catコマンド(Linux)](https://zenn.dev/rinasham/articles/1e0bcf714a26bd)
+- Mar 15 [IPアドレス・MACアドレスとifconfigコマンド](https://zenn.dev/rinasham/articles/690a813802a604)
+- Mar 10 [仮想メモリ、SWAP](https://zenn.dev/rinasham/articles/60bd62212d3694)
+- Mar 10 [プロセス管理　その２](https://zenn.dev/rinasham/articles/627fd405faf60c)
+- Mar 9 [プロセス管理 -その１- (Linux)](https://zenn.dev/rinasham/articles/faa3886bb3db7b)
 <!-- profile updater end: zenn -->
 
 <!-- link icons -->
