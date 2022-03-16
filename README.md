@@ -1,4 +1,5 @@
 ### Hi there 👋
+32 years old Japanese, currently living in Sydney.
 
 <!--
 **Rinasham/Rinasham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +16,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinasham&show_icons=true&theme=omni)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rinasham&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=omni" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Rinasham&count_private=true&show_icons=true&show_icons=true&theme=omni" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinasham&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Rinasham&theme=chalk)
+
+
+<!-- link icons -->
+<p align="left"> 
+  <a href="https://twitter.com/rinaxstudy">
+    <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" />
+  </a>
+  <a href="https://zenn.dev/rinasham">
+    <img alt="zenn" width="30px" src="https://simpleicons.org/icons/zenn.svg" />
+  </a>
+  <a href="https://qiita.com/Rinasham">
+  <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
+  </a>
+  <a href="#" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutkat" height="30" width="30" />
+  </a>
+  <a href="#" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yutkat" height="30" width="30" />
+  </a>
+</p>
+
+
+
+
+
 
 
 <p align="left"> 
