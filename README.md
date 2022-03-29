@@ -44,11 +44,11 @@
  <h2 align="center"> Recent post on Zenn: </h2>
 
 <!-- profile updater begin: zenn -->
+- Mar 28 [MySQL INSERT](https://zenn.dev/rinasham/articles/33b828599c6dc3)
+- Mar 28 [tmuxを入れてみた](https://zenn.dev/rinasham/articles/8be4e4851d13b0)
+- Mar 28 [DNS](https://zenn.dev/rinasham/articles/d053188c188058)
+- Mar 28 [PATHってなぁに？](https://zenn.dev/rinasham/articles/7073cc51ddcf7e)
 - Mar 15 [cd,ls,catコマンド(Linux)](https://zenn.dev/rinasham/articles/1e0bcf714a26bd)
-- Mar 15 [IPアドレス・MACアドレスとifconfigコマンド](https://zenn.dev/rinasham/articles/690a813802a604)
-- Mar 10 [仮想メモリ、SWAP](https://zenn.dev/rinasham/articles/60bd62212d3694)
-- Mar 10 [プロセス管理　その２](https://zenn.dev/rinasham/articles/627fd405faf60c)
-- Mar 9 [プロセス管理 -その１- (Linux)](https://zenn.dev/rinasham/articles/faa3886bb3db7b)
 <!-- profile updater end: zenn -->
 
   
