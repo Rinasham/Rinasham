@@ -1,6 +1,8 @@
 <body align="center" width="90%">
 <h1 align="center">Hi 👋, I'm Rina</h1>
 <h3 align="center">Currently living in Sydney.</h3>
+  
+
 
 <!-- bio -->
 <p align="center"> 
@@ -29,14 +31,15 @@
     <img alt="github stats" height="150px" src="https://github-profile-trophy.vercel.app/?username=Rinasham&theme=chalk" />
 </p>
 
-  
+ 
  <p align="center"> 
-  <img  height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinasham&theme=monokai" />
+  <img  height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rinasham&theme=dracula" />
    <br/>
-   <img  width="23%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=monokai" />
-   <img  width="23%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=monokai" />
-   <img  width="23%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=monokai" />
-   <img  width="23%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=monokai" />
+
+   <img  width="23%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rinasham&theme=dracula" />
+   <img  width="23%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rinasham&theme=dracula" />
+   <img  width="23%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rinasham&theme=dracula" />
+   <img  width="23%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rinasham&theme=dracula&utcOffset=8" />
   </p>
   
   
