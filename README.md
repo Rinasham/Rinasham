@@ -49,11 +49,11 @@
  <h2 align="center"> Recent post on Zenn: </h2>
 
 <!-- profile updater begin: zenn -->
-- Mar 29 [MySQL UPDATE](https://zenn.dev/rinasham/articles/b062152276c702)
-- Mar 28 [MySQL INSERT](https://zenn.dev/rinasham/articles/33b828599c6dc3)
-- Mar 28 [tmuxを入れてみた](https://zenn.dev/rinasham/articles/8be4e4851d13b0)
-- Mar 28 [DNS](https://zenn.dev/rinasham/articles/d053188c188058)
-- Mar 28 [PATHってなぁに？](https://zenn.dev/rinasham/articles/7073cc51ddcf7e)
+- May 10 [Babelとは](https://zenn.dev/rinasham/articles/2a87aab2b53ec6)
+- May 9 [Webpackって何](https://zenn.dev/rinasham/articles/188199e81e06fd)
+- May 9 [yarnてなんぞや](https://zenn.dev/rinasham/articles/0f80ae29fa41b1)
+- May 9 [Pythonとは](https://zenn.dev/rinasham/articles/b37a7d4b4be762)
+- May 9 [ソースファイルから実行ファイルができるまで](https://zenn.dev/rinasham/articles/0a36a686d4d21a)
 <!-- profile updater end: zenn -->
 
   
