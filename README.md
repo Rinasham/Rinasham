@@ -49,11 +49,11 @@
  <h2 align="center"> Recent post on Zenn: </h2>
 
 <!-- profile updater begin: zenn -->
+- Jul 3 [勉強始めてからの１年ついて率直に書いてみる](https://zenn.dev/rinasham/articles/6003be5d498cdc)
+- Jul 3 [React × Flaskでハッカソンに参加してみた話。](https://zenn.dev/rinasham/articles/356569838b3816)
 - May 24 [JWTについて調べてみた](https://zenn.dev/rinasham/articles/f0ec0b30d59987)
 - May 20 [Nodenvをいじってみる回](https://zenn.dev/rinasham/articles/cfbe3e1c2be4fe)
 - May 20 [Viteの読み方を初めて知った](https://zenn.dev/rinasham/articles/f3c5b69825ebc5)
-- May 20 [Sassとは](https://zenn.dev/rinasham/articles/94de6aa22b0741)
-- May 19 [Prettierってなんだ](https://zenn.dev/rinasham/articles/456f7f8038a5f1)
 <!-- profile updater end: zenn -->
 
   
