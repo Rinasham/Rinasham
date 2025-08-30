@@ -64,18 +64,18 @@
   <h2 align="center"> Connect with me! </h2>
 <!-- link icons -->
 <p align="center"> 
-  <a href="https://twitter.com/rinaxstudy">
+<!--   <a href="https://twitter.com/rinaxstudy">
     <img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg" style='filter: invert(88%) sepia(100%) saturate(2929%) hue-rotate(104deg) brightness(99%) contrast(104%);'/>
-  </a>
+  </a> -->
   <a href="https://zenn.dev/rinasham">
     <img alt="zenn" width="30px" src="https://simpleicons.org/icons/zenn.svg" />
   </a>
   <a href="https://qiita.com/Rinasham">
     <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
   </a>
-  <a href="https://www.instagram.com/rinashamsyd/">
+<!--   <a href="https://www.instagram.com/rinashamsyd/">
     <img alt="insta" width="30px" src="https://simpleicons.org/icons/instagram.svg" />
-  </a>
+  </a> -->
   <a href="#" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="yutkat" height="30" width="30" />
   </a>
