@@ -96,12 +96,12 @@
 <!--   <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=Rinasham" alt="Rinasham" />
   </a> -->
-  <a href="http://twitter.com/yutkat">
+<!--   <a href="http://twitter.com/yutkat">
     <img height="20" src="https://img.shields.io/twitter/follow/linaria1221?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Rinasham">
     <img height="20" src="https://img.shields.io/github/followers/Rinasham?label=follow&logo=github&style=flat" />
-  </a>
+  </a> -->
 <!--   <a href="https://www.reddit.com/user/yutkat">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yutkat?label=Reddit&logo=reddit&style=flat" />
   </a> -->
